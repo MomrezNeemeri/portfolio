@@ -1,3 +1,4 @@
+[![Portfolio Pipeline](https://github.com/MomrezNeemeri/portfolio/actions/workflows/pipeline.yml/badge.svg?branch=main&event=push)](https://github.com/MomrezNeemeri/portfolio/actions/workflows/pipeline.yml)
 # Portfolio Template
 
 A starter repo for building and validating a personal portfolio webpage.
